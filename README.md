@@ -55,9 +55,6 @@ Attach your mockup and say what you want, in any language. Examples:
 Slice this mockup into HTML.
 ```
 
-```
-Buatkan HTML dari desain Figma ini, pixel perfect dan responsive.
-```
 
 Claude will ask for the output format and the CSS approach, audit the design, build the code, verify it, and report what it assumed.
 
