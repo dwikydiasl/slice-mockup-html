@@ -119,5 +119,5 @@ Issues and pull requests are welcome, especially:
 
 ## License
 
-[MIT](LICENSE) © \[Dwiky Dias Laksmana]
+[MIT](LICENSE) © \Dwiky Dias Laksmana
 
