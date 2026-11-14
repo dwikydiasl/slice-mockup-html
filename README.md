@@ -4,7 +4,7 @@ A Claude skill that slices a mockup into **pixel-perfect, responsive HTML** that
 
 Give it a **PNG, an SVG, or a Figma file (via MCP)**. It asks how you want the output, audits the design before writing any code, then builds semantic, BEM-structured HTML/CSS for desktop, tablet, and mobile.
 
-> Status: v1.0.0. Tested on a 1440 px desktop mockup (see \[Results](#results)). Feedback and examples are welcome.
+> Status: v1.0.0. . Feedback and examples are welcome.
 
 ## Why
 
